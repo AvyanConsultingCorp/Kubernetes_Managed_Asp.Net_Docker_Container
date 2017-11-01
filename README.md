@@ -1,0 +1,1 @@
+# Kubernetes_Managed_Asp.Net_Docker_Container
